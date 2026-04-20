@@ -1,6 +1,6 @@
 Expert Sources : Webinar Funnel from Zero
 
-1. Russell Brunson
+## 1. Russell Brunson
 - LinkedIn: https://www.linkedin.com/in/russellbrunson/
 - Youtube: https://www.youtube.com/@RussellBrunson
 - Website: www.clickfunnels.com
@@ -10,7 +10,7 @@ Expert Sources : Webinar Funnel from Zero
   close sequence. The single most cited person in webinar marketing.
 - Info Collected: 5 LinkedIn posts, Youtube transcript on Perfect Webinar script
 
-2. Amy Porterfield
+## 2. Amy Porterfield
 - LinkedIn: https://www.linkedin.com/in/amyporterfield/
 - Youtube: https://www.youtube.com/@AmyPorterfield
 - Podcast: Online Marketing Made Easy
@@ -20,7 +20,7 @@ Expert Sources : Webinar Funnel from Zero
   sequences. The best source for the full funnel from registration to sale.
 - Info Collected: 5 LinkedIn posts, Youtube transcript on webinar show up rates
 
-3. Jason Fladlien
+## 3. Jason Fladlien
 - LinkedIn: https://www.linkedin.com/in/jasonfladlien/
 - Website: rapidcrush.com
 - Why: Known as "the $100M webinar man." Holds the record for highest 
@@ -29,7 +29,7 @@ Expert Sources : Webinar Funnel from Zero
   is the most tactical of anyone in this space.
 - Info Collected: 5 LinkedIn posts, any available Youtube content
 
-4. Joel Erway
+## 4. Joel Erway
 - LinkedIn: https://www.linkedin.com/in/joelerway/
 - Youtube: https://www.youtube.com/@JoelErway
 - Podcast: Sold With Webinars
@@ -48,7 +48,7 @@ Expert Sources : Webinar Funnel from Zero
   in an industry full of vague claims.
 - Info Collected: 5 LinkedIn posts
 
-6. Rand Fishkin
+## 6. Rand Fishkin
 - LinkedIn: https://www.linkedin.com/in/randfishkin/
 - Youtube: https://www.youtube.com/@SparkToro
 - Why: CEO of SparkToro, former founder of Moz. Runs regular B2B 
@@ -67,7 +67,7 @@ Expert Sources : Webinar Funnel from Zero
   which most webinar experts ignore.
 - Info Collected: 5 LinkedIn posts, Youtube transcript on webinar cold outreach
 
-8. Wes Bush
+## 8. Wes Bush
 - LinkedIn: https://www.linkedin.com/in/wesbush/
 - Youtube: https://www.youtube.com/@ProductLed
 - Why: Author of Product Led Growth. Runs webinar funnels specifically 
@@ -76,7 +76,7 @@ Expert Sources : Webinar Funnel from Zero
   format most B2B SaaS companies actually need.
 - Info Collected: 5 LinkedIn posts, Youtube transcript on SaaS webinar strategy
 
-9. Katelyn Bourgoin
+## 9. Katelyn Bourgoin
 - LinkedIn: https://www.linkedin.com/in/katelynbourgoin/
 - Newsletter: Why We Buy (Substack)
 - Why: Customer research expert who applies buyer psychology specifically 
