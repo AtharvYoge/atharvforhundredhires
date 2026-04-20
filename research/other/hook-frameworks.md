@@ -1,7 +1,7 @@
 # Webinar Hook Frameworks
 
-Extracted from studying 50+ high-converting webinar invitations
-from Russell Brunson, Amy Porterfield, Jason Fladlien, and Joel Erway.
+Extracted from studying 50+ high converting webinar invitations
+from Russell Brunson, Amy Porterfield, Jason Fladlien and Joel Erway.
 
 ---
 
@@ -46,9 +46,9 @@ Structure: If you are [painful situation] and want [desired outcome], this webin
 
 Examples:
 - "If you are spending $10K/month on ads and getting 2% conversions, this changes everything."
-- "If you have tried webinars before and nobody showed up — you were missing this one thing."
+- "If you have tried webinars before and nobody showed up you were missing this one thing."
 
-Why it works: Makes the ideal customer self-identify immediately.
+Why it works: Makes the ideal customer self identify immediately.
 
 ---
 
