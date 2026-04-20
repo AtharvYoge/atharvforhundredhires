@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/russellbrunson/
 
 ## Post 1
 Date: [19 April 2026]
-Engagement: [51 Likes]
+Link: [https://www.linkedin.com/posts/russellbrunson_ai-secrets-challenge-register-now-activity-7451483477729894401-8ax_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A]
 
 I want to be transparent about something that happened recently.
 We let go of our copywriting team.
@@ -23,7 +23,7 @@ https://lnkd.in/gSdP_hYn
 
 ## Post 2
 Date: [18 April 2026]
-Engagement: [33 likes]
+Link: [https://www.linkedin.com/posts/russellbrunson_the-people-on-my-team-who-adapted-to-ai-fastest-activity-7451052884869251072--jPR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A]
 
 The people on my team who adapted to AI fastest all had one thing in common:
 They already knew how to delegate.
@@ -59,7 +59,7 @@ https://lnkd.in/gSdP_hYn
 
 ## Post 3
 Date: [17 April 2026]
-Engagement: [99 Likes]
+Link: [https://www.linkedin.com/posts/russellbrunson_i-almost-quit-clickfunnels-in-year-one-we-activity-7450689491012354048-ZoQz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A]
 
 I almost quit ClickFunnels in year one.
 We had burned through our savings. My wife was worried. I was working 16-hour days and the numbers weren't moving.
@@ -84,7 +84,7 @@ What's one mindset shift that changed the trajectory of your business? Drop it i
 
 ## Post 4
 Date : [15 April 2026]
-Engagement: [112 Likes]
+Link: [https://www.linkedin.com/posts/russellbrunson_in-2014-my-co-founder-todd-and-i-launched-activity-7449966981702905856-fe64?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A]
 
 In 2014 my co-founder Todd and I launched ClickFunnels with no investors, no VC backing, and no guarantee it would work.
 Most people don't know what happened the first week.
@@ -104,7 +104,7 @@ The scale takes care of itself when the foundation is right.
 
 ## Post 5
 Date: 13 April 2026
-Engagement: [126 Likes]
+Link: [https://www.linkedin.com/posts/russellbrunson_i-built-a-billion-dollar-company-from-a-small-activity-7448506355113570304-r6Ur?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A]
 
 I built a billion dollar company from a small town in Idaho with no investors, no connections, and no permission from anyone in Silicon Valley.
 They said you had to be in the room to be in the game.
