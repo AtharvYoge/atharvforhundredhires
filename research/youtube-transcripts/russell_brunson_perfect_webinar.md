@@ -5,6 +5,13 @@ Source: [https://youtu.be/r5RDc_wqmiU?si=6CQfy1C-Za32gvbS]
 
 ---
 
+## Key insights from this video
+- A successful webinar should focus on convincing the audience of one single, overarching belief. Attempting to sell too many concepts at once often leads to lower conversion rates. 
+- Your content section should be structured around three secrets. Each secret is designed to identify and shatter a specific false belief preventing your audience from buying, then replace it with a new truth that supports your offer
+- A significant portion of sales often happens at the very end of a webinar or during the replay window. Using tools like a 30-minute countdown clock and setting clear deadlines is essential to push undecided viewers to take action.
+
+---
+
 ## Transcript
 
 00:00:00 well I'm excited man thanks for having
@@ -3650,8 +3657,3 @@ Source: [https://youtu.be/r5RDc_wqmiU?si=6CQfy1C-Za32gvbS]
 01:50:16 cool no worries man I appreciate it
 
 ---
-
-## Key insights from this video
-- A successful webinar should focus on convincing the audience of one single, overarching belief. Attempting to sell too many concepts at once often leads to lower conversion rates. 
-- Your content section should be structured around three secrets. Each secret is designed to identify and shatter a specific false belief preventing your audience from buying, then replace it with a new truth that supports your offer
-- A significant portion of sales often happens at the very end of a webinar or during the replay window. Using tools like a 30-minute countdown clock and setting clear deadlines is essential to push undecided viewers to take action.
