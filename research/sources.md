@@ -86,8 +86,8 @@ Expert Sources : Webinar Funnel from Zero
   analytically stronger.
 - Info Collected: 5 LinkedIn posts
 
-## 10. Aisha Dozie
-- LinkedIn: https://www.linkedin.com/in/aishadozie/
+## 10. Nathan Barry
+- LinkedIn: https://www.linkedin.com/in/nathanbarry/
 - Why: SaaS growth operator who has documented webinar led pipeline 
   generation for B2B SaaS companies with actual metrics. Represents 
   the in house operator perspective what it looks like to run a 
