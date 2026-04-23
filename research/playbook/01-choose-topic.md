@@ -12,7 +12,7 @@ The more specific the problem, the higher the registration rate.
 
 Source: Joel Erway, "The Micro Webinar" framework explained on the Brian Kurtz linkedin page
 
-https://www.linkedin.com/posts/brian-kurtz-a1934_how-webinars-can-transform-your-business-activity-7422301026352885760-ivd_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A — collected February 2026
+https://www.linkedin.com/posts/brian-kurtz-a1934_how-webinars-can-transform-your-business-activity-7422301026352885760-ivd_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV5al8BQgB4-ooi4L8oI09iRGyq9rxBA1A — February 2026
 
 ---
 
