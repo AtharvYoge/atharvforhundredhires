@@ -14,7 +14,7 @@ Do not add testimonials, long bios, or multiple calls to action.
 Every extra element reduces conversions.
 
 Source: Amy Porterfield, Online Marketing Made Easy framework,
-https://youtu.be/HZSBiOvxNNQ?si=YNgIb_clXEvxpc4v — collected November 2025
+https://youtu.be/HZSBiOvxNNQ?si=YNgIb_clXEvxpc4v — November 2025
 
 ---
 
@@ -25,4 +25,4 @@ If you hit 30–40%, your email sequence is working.
 If you are below 20%, your reminder emails are the problem, not your topic.
 
 Source: Joel Erway, micro-webinar benchmarks,
-https://youtu.be/qy_ZoJWLMrg?si=xaJfUPngbE9uXIDe — collected April 2019
+https://youtu.be/qy_ZoJWLMrg?si=xaJfUPngbE9uXIDe — April 2019
