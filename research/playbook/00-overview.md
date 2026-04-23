@@ -1,10 +1,13 @@
 ## Webinar Funnel from Zero — Playbook Overview
 
 **Topic:** Webinar Funnel from Zero (B2B SaaS)
+
 **Author:** Atharv Yoge
+
 **Based on research from:** Russell Brunson, Amy Porterfield, Jason Fladlien,
 Joel Erway, Todd Herman, Rand Fishkin, Alex Berman, Wes Bush,
 Katelyn Bourgoin, Nathan Barry
+
 **Full sources:** /research/sources.md
 
 ---
