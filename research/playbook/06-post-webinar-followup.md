@@ -1,4 +1,4 @@
-# Phase 6: Post Webinar Follow Up
+## Phase 6: Post Webinar Follow Up
 
 ---
 
