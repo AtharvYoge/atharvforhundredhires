@@ -61,6 +61,8 @@ Experts I researched (10 total)
 3. Hook frameworks extracted from top performing webinar invites
 4. Email sequences: pre webinar, no show and post webinar follow up
 5. Saved in /research/other/hook-frameworks.md and /research/other/email-sequences.md
+6. Full playbook split into 13 focused files in /research/playbook/
+  (phases, expert disagreements, rejected ideas, original ideas, weaknesses)
 
 ## Key insight from research
 The No.1 reason webinars fail is the title. The best webinar titles 
