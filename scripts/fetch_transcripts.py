@@ -18,6 +18,10 @@ videos = {
 output_dir = "research/youtube-transcripts"
 os.makedirs(output_dir, exist_ok=True)
 
+failed_log_path = "failed_fetches.txt"
+success_count = 0
+failure_count = 0
+
 for name, url in videos.items():
     print(f"Fetching: {name}")
     response = requests.get(
@@ -34,5 +38,13 @@ for name, url in videos.items():
             f.write(f"Collected via: Supadata API\n\n")
             f.write(f"---\n\n## Transcript\n\n{transcript}")
         print(f"  Saved to {filepath}")
+        success_count += 1
     else:
         print(f"  Error {response.status_code} for {name}")
+        failure_count += 1
+        with open(failed_log_path, "a") as f:
+            f.write(f"{name}: {response.status_code}\n")
+
+print("\nFetch summary:")
+print(f"  Succeeded: {success_count}")
+print(f"  Failed: {failure_count}")
